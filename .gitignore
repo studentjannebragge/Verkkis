@@ -28,3 +28,10 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Other
+*.env
+*.sqlite3
+
+# SQLite database
+data.db
