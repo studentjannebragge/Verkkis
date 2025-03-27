@@ -1,0 +1,30 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+venv/
+.venv/
+
+# CSV files
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
